@@ -6,3 +6,4 @@
 
 # update style
 
+# add discount calculate
