@@ -7,3 +7,5 @@
 # add footer
 
 # add card style
+
+# Fix layout
