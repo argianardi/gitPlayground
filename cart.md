@@ -6,4 +6,4 @@
 
 # update style
 
-# add discount calculate
+# fetch api to get product list
