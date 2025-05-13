@@ -5,3 +5,5 @@
 # add link to direct in product detail page
 
 # add footer
+
+# add card style
